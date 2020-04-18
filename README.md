@@ -1,9 +1,9 @@
-# Mette Marie Busck Thesis
+# Mette Marie Busck's Thesis
 
-Thank you for following me, and thanks for reading ❤️
+Thank you for supporting me at the defense ❤️
 
 <a href="./MMB_thesis.pdf" style="float: right">
-  Download it here!</br>
+  Download the thesis here:</br>
   <img src="cover.png" title="Thesis cover page" width = 300>
 </a>
   
