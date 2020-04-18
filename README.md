@@ -7,5 +7,7 @@ Download my thesis here:<br />
 <img src="cover.png" alt="Thesis" width="350" />
 </a>
 
-You can find scripts and other work on my github repository here:
+<br>
+
+You can find scripts and other work on my github repository here:<br>
 https://github.com/Mettetron?tab=repositories
