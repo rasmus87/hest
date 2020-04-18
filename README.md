@@ -6,7 +6,7 @@ Thank you for supporting me at the defense ❤️
   Download the thesis here:</br>
 </a>
 
-<img src="cover.png" title="Thesis" width = 350 />
+<img src="cover.png" alt="Thesis" width = 350 />
 
 
   
