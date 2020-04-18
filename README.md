@@ -1,12 +1,10 @@
 # Mette Marie Busck Thesis
-<div style="float: left">
+
+Thank you for following me, and thanks for reading ❤️
+
+<a href="./MMB_thesis.pdf" style="float: right">
+  Download it here!</br>
+  <img src="cover.png" title="Thesis cover page" width = 300>
+</a>
   
-![Thesis cover](cover.png)
 
-</div>
-
-<div style="float: right">
-
-This is a thesis lallalala
-  
-</div>
